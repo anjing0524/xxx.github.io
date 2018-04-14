@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: K&S
+title: KS
 subtitle: 春水初生，春林初盛，春风十里不如你 
 description: longlongago 
 keywords:
@@ -13,8 +13,8 @@ timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.longlongago.site/
-root: /liushuo.github.io/
+url: https://liushuo.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
